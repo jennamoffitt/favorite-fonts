@@ -2,8 +2,10 @@
 This simple React app was created to simplify a previous project utilizing React Components with the primary goal to reduce the amount of code needed in the application.
 
 To view the live site please follow the link below:
+[Live App](https://onhgh6.csb.app/)
 
 If you would like to view the prototype in Figma, the you may do so by following the link below:
+[Prototype](https://www.figma.com/proto/QrtypGvRK9pkIUSgM1oVJX/Font-Pairings-Project?node-id=1%3A2&scaling=contain&page-id=0%3A1)
 
 # Getting Started with Create React App
 
